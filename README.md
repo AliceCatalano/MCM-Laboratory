@@ -1,5 +1,5 @@
 # MCM-Laboratory
-Laboratory to define model matrices fot the robotic harm represented here developped by [Youssef Attia](https://github.com/youssefattia98), [Hussein Hassan](https://github.com/husseinfd97) and Alice Catalano. 
+Laboratory to define model matrices fot the robotic arm represented here developped by [Youssef Attia](https://github.com/youssefattia98), [Hussein Hassan](https://github.com/husseinfd97) and Alice Catalano. 
 
 The code here is the result of the second attempt of coding, following the structure given by the professor. In the former project we did a diagram of the robot fixing the frames for each link and joint; then the DH table was defined to obtain the transformation matrix for every joint with respect to the previous one. 
 
